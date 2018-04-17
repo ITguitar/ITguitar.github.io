@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 19d19c45d016d1288653                            #生成的clientID
-  clientSecret: 350cbf3b74d5d94852a26f9e731a57df35358921    #生成的clientSecret
+  clientID: 352c6e079e8ec71f0fba                         #生成的clientID
+  clientSecret: 0c20331e536fca7e92403bc9ea373948e2c1f6e3    #生成的clientSecret
   repo: https://github.com/ITguitar/ITguitar.github.io    #仓库名称
   owner: ITguitar    #github用户名
   admin: ITguitar
