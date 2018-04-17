@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 19d19c45d016d1288653                            #生成的clientID
   clientSecret: 350cbf3b74d5d94852a26f9e731a57df35358921    #生成的clientSecret
-  repo: ITguitar.github.io    #仓库名称
+  repo: https://github.com/ITguitar/ITguitar.github.io    #仓库名称
   owner: ITguitar    #github用户名
   admin: ITguitar
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
